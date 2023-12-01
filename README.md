@@ -1,6 +1,6 @@
 # f22_pfssr_assignment11
 
-This repository is for Assignment 11 in the Fall 2023 semester of EPSY 5122 at University of Minnesota taught by Jeff Bye.
+This repository is for Assignment 11 in the Fall 2023 semester of EPSY 5122 (Programming Fundamentals for Social Science Researchers) at University of Minnesota taught by Jeff Bye.
 
 The data consists of public domain educational data from Massachussets, as obtained from Kaggle: https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
 

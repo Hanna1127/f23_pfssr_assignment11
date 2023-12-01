@@ -1,4 +1,5 @@
-### UMN EPSY 5122 Fall 2023
+### UMN EPSY 5122
+### Fall 2023
 ### Programming for Social Science Researchers
 ### Jeffrey K. Bye, Ph.D.
 
