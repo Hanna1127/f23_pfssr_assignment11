@@ -104,3 +104,9 @@ school_data.columns = school_data.columns.str.replace(' ', '_') # notice this re
 # b) Stage, commit, and push all changes to your GitHub repository.
 #
 # c) Submit a link to your repository as your submission for the assignment on Canvas. Remember the note from Problem 0: you can keep your repo private and add me as a collaborator.
+
+# Problem 6
+# Write a paragraph or so on how things are going with your final project.
+
+# Problem 7
+# Drink some water, get some rest, take care of yourself. You're almost done with the semester!
