@@ -5,7 +5,7 @@
 
 # Assignment 11: Due Thursday, December 7, 2023 by 1pm
 
-# NAME:
+# NAME: Hanna Yu
 
 ## Instructions
 # For problems that require you to write code, write your code in the appropriate section below
@@ -30,21 +30,32 @@
 # By default, GitHub repos are public (promoting open source sharing of code), but of course you are more than welcome to make your code for this assignment private, as is your right!  If you want to make your repo private instead of public, that *should* work well in VSCode.  In case it doesn't (or you want to go another route), here are 3 other ways to do this privately:
 #
 # 1) GitKraken partners with GitHub to provide a free pack of resources (including the pro version of GitKraken) for *students*.  That's you!  So you can sign up here *only if you want to do this*: https://education.github.com/pack?utm_source=github+gitkraken
-#
+#Yes
 # 2) Just keep your GitHub repo public while you're working on this project.  Use VSCode or free GitKraken.  Then switch the GitHub repo to Private only when you're done using an app to push to GitHub.
-#
+#Yes
 # 3) Keep the repo private and use the terminal git commands in the YouTube video for Problem 0a. This will require an ssh key (more secure than https). Please see the links for how to do this in the Week 11 class materials.
-#
+#Yes
 # To make the repo private: On your GitHub repo, go to Settings > Manage Access > Manage (under Public Repository) > Change Visibility. Then add me (jkbye) as a 'collaborator' so I can see it: Settings > Manage Access > Invite a Collaborator (green button) > add 'jkbye'.
+# I will do that too
 
 # Problem 1
 #
 # Now let's get to programming
 #
 # a) Import any helpful librariess
-#
+
+
+
 # b) Load the included MA_Public_Schools_2017.csv file as a pandas data frame. Note: these data are from Kaggle: https://www.kaggle.com/ndalziel/massachusetts-public-schools-data and I have already removed a lot of columns.
-#
+
+
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import scipy.stats as stats
+import statsmodels.formula.api as smf
+
 # c) Adapt the example code in the chunk below to replace all spaces in column names with underscores. This is good practice in order to not cause problems with functions that don't allow spaces in variable names (e.g., smf.ols).
 #
 # d) Adapt the code from 1c to replace "%" sign with "Perc", because it is also good practice not to start column names with symbols.
